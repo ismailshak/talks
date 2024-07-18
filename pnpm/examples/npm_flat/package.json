@@ -1,0 +1,14 @@
+{
+  "name": "npm_flat",
+  "version": "1.0.0",
+  "description": "Example flat node_modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@socialtables/st-scripts": "^7.1.0"
+  }
+}
